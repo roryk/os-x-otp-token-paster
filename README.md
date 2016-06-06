@@ -18,7 +18,7 @@ Using
   in ```~/.JAuth.rc```.
 - ```mkdir -p ~/Library/Services```
 - Clone the repository.
-- ```mv 'Enter Current OTP Token.workflow' ~/Library/Services```
+- ```mv 'Enter Current TOTP Token.workflow' ~/Library/Services```
 - Open System Preferences -> Keyboard -> Keyboard Shortcuts -> Services ->
   Enter Current OTP Token (probably way down at the bottom).
 - Click 'add shortcut' and enter the key combination you want to use.
